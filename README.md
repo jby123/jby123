@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=&type=Date)](https://star-history.com/)
+[![Star History Chart](https://api.star-history.com/svg?repos=jby123/jby123&type=Date)](https://star-history.com/)
 
 
 <p align="center">
