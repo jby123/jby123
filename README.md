@@ -1,8 +1,5 @@
 ## 我是 TOM 
 
-<!--
-**jby123/jby123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,7 +10,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=&type=Date)](https://star-history.com/)
+
+
+<p align="center">
+  <a href="https://star-history.com/#jby123/jby123&Date">
+    <img src="https://api.star-history.com/svg?repos=jby123/jby123&type=Date" alt="Star History Chart">
+  </a>
+</p>
